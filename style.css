@@ -1,0 +1,26 @@
+
+h1{
+    color:aqua;
+    font-family: cursive;
+}
+#pagina{
+    color:lightgray;
+    background-color: aquamarine;
+    font-weight: 300;
+    font-family: cursive;
+}
+#youtube{
+    background-color: red;
+    color: white;
+    font-family: Impact;
+}
+#tiktok{
+    background-color: black;
+    color: blue;
+    font-family: Impact;
+}
+#instagram{
+    background-color: orange;
+    color: blueviolet;
+    font-family: Impact;
+}
